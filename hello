@@ -1,0 +1,4 @@
+#!/Users/smith/.asdf/shims/node
+
+console.log("hello, world!\n\they man");
+
